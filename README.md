@@ -9,3 +9,7 @@ Active Surf Tracking Cam
 ## technical challenges
 * ground-to-ground radio performance issue
 * Varying orientation and placement of the transmitting antenna
+
+## "Advisory Board"
+* telemetric gps module, baud rate 4'800 should be enough
+* Select a weaker hardware zoom level and refine the image section using software (computer vision). 

@@ -4,7 +4,7 @@ Active Surf Tracking Cam
 ## prototyping steps
 * Testing the range of a simple GPS radio arrangement
 * evaluate zoom autofocus lens for raspberry pi camera
-* test with Dockstaring at Tiefenbrunnen (did you mean DockstarTing?)
+* test with Dockstarting at Tiefenbrunnen (did you mean DockstarTing?)
 
 ## technical challenges
 * ground-to-ground radio performance issue

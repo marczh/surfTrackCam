@@ -11,5 +11,5 @@ Active Surf Tracking Cam
 * Varying orientation and placement of the transmitting antenna
 
 ## "Advisory Board"
-* telemetric gps module, baud rate 4'800 should be enough
+* telemetric gps module, baud rate 4800 should be enough
 * Select a weaker hardware zoom level and refine the image section using software (computer vision). 

@@ -1,4 +1,4 @@
-# baywatcher
+# surfTrackCam
 Active Surf Tracking Cam
 
 <img width="911" alt="image" src="https://user-images.githubusercontent.com/16016898/112151912-094f6500-8be2-11eb-9478-2747b4b5afb8.png">

@@ -1,8 +1,7 @@
 # surfTrackCam
 Active Surf Tracking Cam
 
-<img width="911" alt="image" src="https://user-images.githubusercontent.com/16016898/112151912-094f6500-8be2-11eb-9478-2747b4b5afb8.png">
-
+<img width="865" alt="image" src="https://user-images.githubusercontent.com/16016898/112152294-6d722900-8be2-11eb-94b0-1fde06a003d8.png">
 
 ## prototyping steps
 * Testing the range of a simple GPS radio arrangement

@@ -14,5 +14,5 @@
 * Raspberry Pi 4 16GB
 * PiJuice Uninteruptile Power Supply
 
-### Cage
+### cage
 * Makerbeam

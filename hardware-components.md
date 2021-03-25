@@ -19,6 +19,6 @@
 
 ### robotics
 * [Turntable for Stepper Motor (Kit)<br>![image](https://user-images.githubusercontent.com/16016898/112514933-1a40d780-8d96-11eb-92b2-a48fa077ab17.jpeg)](https://www.tindie.com/products/fluxgarage/turntable-for-stepper-motor-kit/)
-** direct mount of stepper moto might lead to "hard" movements
-** stepper motor might be to weak to rotate a heavy camera konfiguration (inertia)
-** to be tested
+  ** direct mount of stepper moto might lead to "hard" movements
+  ** stepper motor might be to weak to rotate a heavy camera konfiguration (inertia)
+  ** to be tested

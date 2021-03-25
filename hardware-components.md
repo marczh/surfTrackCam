@@ -22,4 +22,4 @@
   * direct mount of stepper motor might lead to jerky movements
   * stepper motor might be to weak to rotate a heavy camera sports zoom lens configuration (inertia)
   * to be tested
-   * mount two makerbeams to mount the camera on plate
+    * two makerbeams on top of acrylic plate to mount the camera or zoom lens

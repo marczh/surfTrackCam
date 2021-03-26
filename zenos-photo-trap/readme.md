@@ -3,3 +3,13 @@
 ## Basic arrangement
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/16016898/112650938-31da9780-8e4c-11eb-8eb8-910dc97fa0b2.png">
+
+
+## required components
+
+* Camera Body: Canon EOS M6 II
+* Zoom Lens: at least 200mm
+* Raspberry Pi 4 8GB
+* [Adafruit Video Grabber](https://www.adafruit.com/product/4669)
+* Solid State Relais: [Broadcom ASSR-1228-002E](https://ch.rs-online.com/web/p/halbleiterrelais/1894778/)
+  

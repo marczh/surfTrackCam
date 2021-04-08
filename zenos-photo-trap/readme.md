@@ -12,4 +12,8 @@
 * Raspberry Pi 4 8GB
 * [Adafruit Video Grabber](https://www.adafruit.com/product/4669)
 * Solid State Relais: [Broadcom ASSR-1228-002E](https://ch.rs-online.com/web/p/halbleiterrelais/1894778/)
+
+## Installation of Dev Board 4 GB
+* Follow https://g.co/coral/setup
+* Issue with version of [tflite_runtime](https://github.com/google-coral/tflite/issues/45)
   

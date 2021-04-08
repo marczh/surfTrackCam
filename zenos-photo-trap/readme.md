@@ -16,4 +16,5 @@
 ## Installation of Dev Board 4 GB
 * Follow https://g.co/coral/setup
 * Issue with version of [tflite_runtime](https://github.com/google-coral/tflite/issues/45)
+* connecting a [USB camera](https://coral.ai/docs/dev-board/camera/#connect-a-usb-camera)
 * [Example object tracker](https://github.com/google-coral/example-object-tracker)

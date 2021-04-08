@@ -21,3 +21,4 @@
 * connecting a [USB camera](https://coral.ai/docs/dev-board/camera/#connect-a-usb-camera)
 * [Example object tracker](https://github.com/google-coral/example-object-tracker)
 * [Add an external SD card](https://github.com/f0cal/google-coral/issues/61) so you have more then 8 GB of space
+* Vision Matrix support request for [OV5645](https://servicedesk.matrix-vision.com/servicedesk/customer/portal/1/MVSD-1274)

@@ -14,8 +14,9 @@
 * Solid State Relais: [Broadcom ASSR-1228-002E](https://ch.rs-online.com/web/p/halbleiterrelais/1894778/)
 
 ## Installation of Dev Board 4 GB
-* Follow https://g.co/coral/setup (if you get a white screen while connecting the [serial port](https://coral.ai/docs/dev-board/serial-console), connect the power as well after connecting the serial port)
-* Make sure you have the  `cp210x` Kernel module loaded or compiled in.
+* Follow https://g.co/coral/setup 
+* If you get a white screen while connecting the [serial port](https://coral.ai/docs/dev-board/serial-console), connect the power as well after connecting the serial port
+* Make sure you have the  `cp210x` Kernel module loaded or compiled in
 * Issue with version of [tflite_runtime](https://github.com/google-coral/tflite/issues/45)
 * connecting a [USB camera](https://coral.ai/docs/dev-board/camera/#connect-a-usb-camera)
 * [Example object tracker](https://github.com/google-coral/example-object-tracker)

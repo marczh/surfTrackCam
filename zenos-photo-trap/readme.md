@@ -24,3 +24,6 @@
 * Vision Matrix support request for [OV5645](https://servicedesk.matrix-vision.com/servicedesk/customer/portal/1/MVSD-1274)
 * Restart the Weston: `sudo systemctl restart weston`
 * [Coral Camera](https://coral.ai/products/camera/)
+
+## Useful commands
+* `edgetpu_detect_server --model ${DEMO_FILES}/ssd_mobilenet_v2_face_quant_postprocess_edgetpu.tflite`

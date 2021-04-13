@@ -35,6 +35,7 @@
 * `edgetpu_detect_server --model ${DEMO_FILES}/ssd_mobilenet_v2_face_quant_postprocess_edgetpu.tflite`
 * `edgetpu_detect_server --model mobilenet_ssd_v2_coco_quant_postprocess_edgetpu.tflite --labels coco_labels.txt` for Object Tracking using [Example Object Tracker](https://github.com/google-coral/example-object-tracker)
 * `edgetpu_detect_server --model mobilenet_ssd_v2_coco_quant_postprocess_edgetpu.tflite --labels coco_labels.txt --filter car,person,bicycle,bus,motorcycle`
+* `edgetpu_detect_server --model mobilenet_ssd_v2_coco_quant_postprocess_edgetpu.tflite --labels coco_labels.txt --filter person --threshold 0.15 --print`
 ### create your own tflite file
 * [Examples](https://coral.ai/examples/#code-examples/)
 * [Retrain a classification model for Edge TPU using post-training quantization (with TF2)](https://colab.research.google.com/github/google-coral/tutorials/blob/master/retrain_classification_ptq_tf2.ipynb#scrollTo=RwywT4ZpQjLf)

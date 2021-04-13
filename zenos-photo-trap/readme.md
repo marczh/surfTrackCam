@@ -25,6 +25,12 @@
 * Restart the Weston: `sudo systemctl restart weston`
 * [Coral Camera](https://coral.ai/products/camera/)
 
+## needed software
+* sudo apt-get install python3-edgetpuvision
+### run Frequently
+* sudo apt-get update
+* sudo apt-get dist-upgrade
+
 ## Useful commands
 * `edgetpu_detect_server --model ${DEMO_FILES}/ssd_mobilenet_v2_face_quant_postprocess_edgetpu.tflite`
 * `edgetpu_detect_server --model mobilenet_ssd_v2_coco_quant_postprocess_edgetpu.tflite --labels coco_labels.txt` for Object Tracking using [Example Object Tracker](https://github.com/google-coral/example-object-tracker)

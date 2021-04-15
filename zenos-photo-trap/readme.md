@@ -41,5 +41,5 @@
 * [Retrain a classification model for Edge TPU using post-training quantization (with TF2)](https://colab.research.google.com/github/google-coral/tutorials/blob/master/retrain_classification_ptq_tf2.ipynb#scrollTo=RwywT4ZpQjLf)
 
 ## Research
-* [https://github.com/AdaptiveCity/deepdish](Video object recognition, tracking and counting)
-* [https://github.com/AdaptiveCity/deepdish/issues/1](Issues with Deepish)
+* [Video object recognition, tracking and counting](https://github.com/AdaptiveCity/deepdish)
+* [Issues with Deepish](https://github.com/AdaptiveCity/deepdish/issues/1)

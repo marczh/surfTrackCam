@@ -42,3 +42,4 @@
 
 ## Research
 * [https://github.com/AdaptiveCity/deepdish](Video object recognition, tracking and counting)
+* [https://github.com/AdaptiveCity/deepdish/issues/1](Issues with Deepish)
